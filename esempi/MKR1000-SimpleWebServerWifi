@@ -19,6 +19,11 @@
 
  created 25 Nov 2012
  by Tom Igoe
+ 
+ Modified 18 June 2016
+ by Giovanni De Gasperis
+ 
+ modified SSDI, WiFi witout password and PIN 6
  */
 #include <SPI.h>
 #include <WiFi101.h>
