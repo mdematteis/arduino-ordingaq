@@ -7,3 +7,4 @@ presso l' [Ordine degli Ingegneri della Provincia dell'Aquila](http://www.ording
 ## Link principali
 * [Arduino su Wikipedia](http://en.wikipedia.org/wiki/Arduino)
 * [Sito Ufficiale](http://www.arduino.cc)
+* Corso online di [Michele Maffucci](http://www.maffucci.it/2010/01/30/lezione-01-incominciamo-con-arduino/)
